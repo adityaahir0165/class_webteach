@@ -1,0 +1,10 @@
+
+ table{
+	 border-style: dashed solid dotted doubel;
+	 border-color:red green blue orange;
+	 border-width:5px;
+	 border-top-width: medium;
+	 border-bottom-width: thin;
+	 border-left-width: thick;
+	 
+ }
